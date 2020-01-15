@@ -8,13 +8,25 @@
     <h1>Hotel Feed Back Form</h1>
     <form method="get">
 
-      <h3>Are you from Pakistan? </h3>
+      <h2>Are you from Pakistan? </h2>
       <label for="yes">YES</label>
-      <input id = "yes" type="radio" name="loc" value="">
+      <input id = "yes" type="radio" name="loc" value="Yes">
 
       <label for="nooo">NO</label>
-      <input id="nooo" type="radio" name="loc" value="">
+      <input id="nooo" type="radio" name="loc" value="No">
 
+
+      <h2>What's your rating about Pakistan? </h2>
+      <select  name="stars">
+        <option value="Great">4</option>
+        <option value="Good">3</option>
+        <option value="Fair">2</option>
+        <option value="Bad">1</option>
+        <input type="submit" name="" value="Submit">
+      </select>
+        <h2>Any other feedback?</h2>
+        <textarea name="myText" rows="8" cols="80"></textarea>
+        <input type="submit" name="" value="Submit">
     </form>
 
   </body>
