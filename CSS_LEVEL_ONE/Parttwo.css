@@ -3,4 +3,8 @@ body{
 }
 div{
   background-color: blue;
+  border-color: red;
+  border-width: thick;
+  border-style: dotted;
+
 }
