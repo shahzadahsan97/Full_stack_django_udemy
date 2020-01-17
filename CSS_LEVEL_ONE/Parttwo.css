@@ -1,5 +1,7 @@
 body{
-  background-color: green;
+
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyzYREqxQc7SIR5aq9NjxIUnh3bDBUgLZbsbb34ogVKdbxgHaq&s);
+  background-repeat: repeat;
 }
 div{
   background-color: blue;
@@ -12,6 +14,6 @@ p{
   color: #f06007;
 }
 span{
-  background: red;
+  background: yellow;
   color: black;
 }
