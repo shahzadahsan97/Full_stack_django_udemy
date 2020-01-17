@@ -8,3 +8,10 @@ div{
   border-style: double;
 
 }
+p{
+  color: #f06007;
+}
+span{
+  background: red;
+  color: black;
+}
