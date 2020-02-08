@@ -21,3 +21,7 @@ li a[href="www.facebook.com"]{
   color: green;
   border: 3px solid orange;
 }
+li a[href ="www.yahoo.com"]{
+  color: blue;
+  background-color: red;
+}
