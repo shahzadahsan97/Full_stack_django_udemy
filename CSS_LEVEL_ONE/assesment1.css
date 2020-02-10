@@ -16,3 +16,16 @@ h2{
 #firstid{
   color: purple;
 }
+
+#email1{
+  border: 1px solid red;
+}
+
+#pass{
+  border: 1px solid red;
+}
+
+.lastclass{
+  background-color: blue;
+  border: 5px dashed yellow;
+}
