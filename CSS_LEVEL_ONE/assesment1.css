@@ -6,10 +6,13 @@ body{
   border: 3px solid black;
 }
 
-.h4headingdiv{
+#headingid{
   background-color: #E3E609;
 }
 
 h2{
   color:purple;
+}
+#firstid{
+  color: purple;
 }
