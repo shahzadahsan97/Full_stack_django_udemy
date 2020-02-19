@@ -1,0 +1,29 @@
+td{
+  background-color: black;
+  height: 250px;
+  width: 120px;
+}
+h1{
+  text-align: center;
+  font-family: 'Sriracha', cursive;
+
+}
+.art{
+  margin: auto;
+}
+
+#one{
+  background-color: #8ED081;
+}
+#two{
+  background-color: #083D77;
+}
+#three{
+  background-color: #DB5461;
+}
+#four{
+  background-color: #153243;
+}
+#five{
+  background-color: #476A6F;
+ }
