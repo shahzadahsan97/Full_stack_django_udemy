@@ -3,6 +3,7 @@ body{
   color: #FDFFFC;
   border: 40px solid #FDE74C;
   border-top: 0px;
+  margin: 0px;
 }
 
 h1{
@@ -12,9 +13,14 @@ h1{
 p{
   text-align: center;
   font-family: 'Playfair Display', serif;
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
 }
 
 .emailform{
+  margin-bottom: 10px;
+  font-size: 1.00em;
   text-align: center;
   font-family: 'Playfair Display', serif;
 }
