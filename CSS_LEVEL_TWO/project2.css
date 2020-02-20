@@ -24,3 +24,11 @@ p{
   text-align: center;
   font-family: 'Playfair Display', serif;
 }
+#sub{
+  background-color: #FFFF00;
+  height: 80px;
+  width: 100px;
+  margin-top: 12px;
+  font-size: 1.00em;
+  border-radius: 25px;
+}
